@@ -1,15 +1,15 @@
 {
-  "name": "umair_ahmed",
-  "version": "1.0.1",
-  "description": "A personal card for Umair Ahmed",
+  "name": "steve_baker",
+  "version": "1.0.0",
+  "description": "A personal card for Steve Baker",
   "main": "card.js",
   "bin": {
-    "umair_ahmed": "./card.js"
+    "steve_baker": "./card.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Umair Ahmed",
+  "author": "Steve Baker",
   "license": "MIT",
   "dependencies": {
     "boxen": "^2.1.0",
