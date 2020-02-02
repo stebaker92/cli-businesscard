@@ -3,7 +3,7 @@
 Via npx:
 
 ```
-npx umair_ahmed
+npx steve_baker
 ```
 
 ## Credits
